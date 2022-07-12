@@ -1,0 +1,5 @@
+#ex06
+mkdir ex06
+touch git_ignore.sh
+vim git_ignore.sh
+git ls-files -o -i --exclude-standard
