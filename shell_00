@@ -3,3 +3,7 @@ mkdir ex06
 touch git_ignore.sh
 vim git_ignore.sh
 git ls-files -o -i --exclude-standard
+
+
+c_00 videos
+https://www.youtube.com/playlist?list=PLVQYiy6xNUxz5wbzZn4tfUhF4djgzscB-
